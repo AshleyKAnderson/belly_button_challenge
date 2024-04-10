@@ -1,3 +1,6 @@
+
+<img width="1024" alt="Screenshot 2024-04-10 at 1 46 27 PM" src="https://github.com/AshleyKAnderson/belly_button_challenge/assets/151413928/ba06eef3-3e89-4012-9a09-58bb863a2b08">
+
 # Project Description
 This project builds an interactive dashboard using D3.js to explore a belly button microbiome dataset from [North Carolina State University Public Science Lab](https://robdunnlab.com/projects/belly-button-biodiversity/). Users can analyze individual samples through dynamic charts and uncover the most prevalent microbial communities. By visualizing demographic data alongside the microbes, the dashboard provides a richer context for understanding these ecosystems. 
 
