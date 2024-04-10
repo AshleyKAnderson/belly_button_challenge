@@ -5,7 +5,7 @@ This project builds an interactive dashboard using D3.js to explore a belly butt
 Explore the dashboard to find out more about microbial ecosytems in your belly button: [Belly Button Microbial Ecosystem](https://ashleykanderson.github.io/belly_button_challenge/)
 
 # Applications Used
-* D3.js for the manipulation of data
+* <ins>D3.js</ins> for the manipulation of data
 * Plotly.js for creating dynamic visualizations
 * Bootstrap for design
 
