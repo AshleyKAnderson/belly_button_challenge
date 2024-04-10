@@ -1,4 +1,5 @@
-Background
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+#Project Description
+This project builds an interactive dashboard using D3.js to explore a belly button microbiome dataset. Users can analyze individual samples through dynamic charts and uncover the most prevalent microbial communities. By visualizing demographic data alongside the microbes, the dashboard provides a richer context for understanding these ecosystems. 
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+#Dashboard
+Explore the dashboard to find out more about microbial ecosytems in your belly button: [Belly Button Microbial Ecosystem](https://github.com/AshleyKAnderson/belly_button_challenge/settings/pages#:~:text=https%3A//ashleykanderson.github.io/belly_button_challenge/)
